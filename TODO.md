@@ -12,7 +12,7 @@ Raidar TODO list (until Github repo is up)
 
 ## Android
   - [X] Set up project
-  - [ ] Add floating button
+  - [X] Add floating button
   - [ ] Take screenshot on floating button press
   - [ ] Present prompt to submit screenshot
   - [ ] Base64 encode screenshot
