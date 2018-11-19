@@ -1,0 +1,1 @@
+discord.py # https://boostlog.io/@junp1234/how-to-write-a-discord-bot-in-python-5a8e73aca7e5b7008ae1da8b

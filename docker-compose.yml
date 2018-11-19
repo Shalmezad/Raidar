@@ -4,4 +4,12 @@ services:
     image: redis
     volumes:
       - ./data/redis-data:/data
+  discordbot:
+    build: './discordbot'
+    depends_on:
+      - redis
+    environment:
+      - REDIS_HOST=redis
+    volumes:
+      - ./discordbot:/usr/src/app
 
